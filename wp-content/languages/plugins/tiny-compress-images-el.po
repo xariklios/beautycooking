@@ -1,0 +1,756 @@
+# Translation of Plugins - Compress JPEG &amp; PNG images - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Compress JPEG &amp; PNG images - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-28 15:25:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Compress JPEG &amp; PNG images - Stable (latest release)\n"
+
+#: src/views/bulk-optimization-upgrade-notice.php:31
+msgid "No thanks, continue anyway"
+msgstr "Όχι ευχαριστώ, συνέχεια όπως και να έχει"
+
+#: src/views/bulk-optimization-upgrade-notice.php:17
+msgid "Upgrade your account now to compress your entire media library."
+msgstr "Αναβαθμίστε το λογαριασμό σας τώρα για να συμπιέσετε ολόκληρη τη βιβλιοθήκη σας."
+
+#: src/views/account-status-connected.php:94
+#: src/views/bulk-optimization-upgrade-notice.php:26
+msgid "Upgrade account"
+msgstr "Αναβάθμιση λογαριασμού"
+
+#: src/views/account-status-connected.php:99
+msgid "Remove all limitations? Visit your TinyPNG dashboard to upgrade your account."
+msgstr "Αφαίρεση όλων των περιορισμών; Επισκεφθείτε τον πίνακα ελέγχου του TinyPNG για να αναβαθμίσετε το λογαριασμό σας."
+
+#. translators: %s: number of remaining credits
+#: src/views/account-status-connected.php:30
+#: src/views/bulk-optimization-upgrade-notice.php:9
+msgid "You are on a <strong>free plan</strong> with <strong>%s compressions left</strong> this month."
+msgstr "Χρησιμοποιείτε το <strong>δωρεάν πλάνο</strong> με <strong>%s συμπιέσεις ακόμα</strong> για αυτό το μήνα."
+
+#: src/class-tiny-notices.php:274
+msgid "You have activated multiple image optimization plugins. This may lead to unexpected results. The following plugins were detected:"
+msgstr "Έχετε ενεργοποιήσει πολλαπλά πρόσθετα βελτιστοποίησης εικόνων. Αυτό μπορεί να προκαλέσει προβλήματα. Ανιχνεύθηκαν τα παρακάτω πρόσθετα:"
+
+#: src/views/settings.php:49
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: src/views/settings.php:29
+msgid "Wordpress generates resized versions of every image. Choose which sizes to compress."
+msgstr "Το WordPress παράγει τροποποιημένα μεγέθη για κάθε εικόνα. Επιλέξτε το μέγεθος που θέλετε να συμπιέζετε."
+
+#: src/views/settings.php:26
+msgid "Select image sizes to be compressed"
+msgstr "Επιλέξτε τα μεγέθη εικόνων που θέλετε να συμπιέζονται"
+
+#: src/views/settings.php:24
+msgid "Image sizes"
+msgstr "Μεγέθη εικόνων"
+
+#: src/views/settings.php:18
+msgid "New image uploads"
+msgstr "Νέες μεταφορτώσεις εικόνων"
+
+#: src/views/settings.php:12
+msgid "Tinify account"
+msgstr "Λογαριασμός Tinify"
+
+#: src/class-tiny-notices.php:191
+msgid "You have reached your free limit this month."
+msgstr "Φτάσατε το μέγιστο δωρεάν όριο για αυτό το μήνα."
+
+#: src/class-tiny-settings.php:716
+msgid "For background compression to work you will need to configure WP Offload S3 to keep a copy of the images on the server."
+msgstr "Για να λειτουργήσουν οι συμπιέσεις στο παρασκήνιο θα πρέπει να ρυθμίσετε το WP Offload S3 έτσι ώστε να κρατάει αντίγραφα των εικόνων στο διακομιστή."
+
+#: src/class-tiny-settings.php:709
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+#: src/class-tiny-settings.php:664
+msgid "Resizing takes <strong>1 additional compression</strong> for each image that is larger."
+msgstr "Η αλλαγή μεγέθους μετράει σαν <strong>1 πρόσθετη συμπίεση</strong> για κάθε εικόνα που είναι μεγαλύτερη από αυτό."
+
+#: src/class-tiny-settings.php:662
+msgid "<strong>Save space</strong> by setting a maximum width and height for all images uploaded."
+msgstr "<strong>Εξοικονομήστε χώρο</strong> θέτοντας ένα μέγιστο πλάτος και ύψος για όλες τις εικόνες που μεταφορτώνονται."
+
+#: src/class-tiny-settings.php:650
+msgid "Resize the original image"
+msgstr "Αλλαγή μεγέθους στην αρχική εικόνα"
+
+#: src/class-tiny-settings.php:584
+msgid "Remember each selected size counts as a compression."
+msgstr "Θυμηθείτε πως κάθε επιλεγόμενο μέγεθος μετράει σαν συμπίεση."
+
+#: src/class-tiny-settings.php:509
+msgid "Manually select the images you want to compress in the media library."
+msgstr "Επιλέξτε χειροκίνητα τις εικόνες που θέλετε να συμπιέσετε στη βιβλιοθήκη."
+
+#: src/class-tiny-settings.php:505
+msgid "Do not compress new images automatically"
+msgstr "Να μην συμπιέζονται οι νέες εικόνες αυτόματα"
+
+#: src/class-tiny-settings.php:488
+msgid "Uploads will take longer, but provides higher compatibility with other plugins."
+msgstr "Οι μεταφορτώσεις θα πάρουν περισσότερο χρόνο, αλλά προσφέρει καλύτερη συμβατότητα με άλλα πρόσθετα."
+
+#: src/class-tiny-settings.php:484
+msgid "Compress new images during upload"
+msgstr "Συμπίεση νέων εικόνων κατά τη μεταφόρτωση"
+
+#: src/class-tiny-settings.php:467
+msgid "This is the fastest method, but can cause issues with some image related plugins."
+msgstr "Αυτή είναι η πιο γρήγορη μέθοδος, αλλά μπορεί να προκαλέσει προβλήματα με άλλα παρόμοια πρόσθετα."
+
+#: src/class-tiny-settings.php:463
+msgid "Compress new images in the background (Recommended)"
+msgstr "Συμπίεση νέων εικόνων στο παρασκήνιο (Συνιστάται)"
+
+#: src/class-tiny-settings.php:450
+msgid "When should new images be compressed?"
+msgstr "Πότε θα συμπιέζονται οι νέες εικόνες;"
+
+#: src/class-tiny-notices.php:254 src/class-tiny-settings.php:711
+msgid "Background compressions are not compatible with the version of WP Offload S3 you have installed. Please update to version 0.7.2 at least."
+msgstr "Η συμπίεση στο παρασκήνιο δεν είναι συμβατή με την έκδοση του WP Offload S3 που έχετε. Παρακαλώ ενημερώστε τουλάχιστον στην έκδοση 0.7.2."
+
+#: src/class-tiny-notices.php:246
+msgid "Removing files from the server is incompatible with background compressions. Images will still be automatically compressed, but no longer in the background."
+msgstr "Η αφαίρεση των αρχείων από το διακομιστή, δεν είναι συμβατή με τις συμπιέσεις στο παρασκήνιο. Οι εικόνες θα συμπιέζονται αυτόματα, αλλά όχι πια στο παρασκήνιο."
+
+#. translators: %s: link saying settings
+#: src/class-tiny-settings.php:424
+msgid "The %s have moved."
+msgstr "Το %s μετακινήθηκε."
+
+#: src/class-tiny-settings.php:419
+msgid "settings"
+msgstr "ρυθμίσεις"
+
+#: src/class-tiny-notices.php:236
+msgid "We noticed that curl_exec is disabled in your PHP configuration. Please update this setting for the best experience."
+msgstr "Παρατηρήσαμε ότι το curl_exec είναι απενεργοποιημένο στις ρυθμίσεις PHP. Παρακαλώ, ανανεώστε αυτή τη ρύθμιση για την καλύτερη δυνατή εμπειρία."
+
+#: src/class-tiny-notices.php:231
+msgid "We noticed that cURL is not available. For the best experience we recommend to make sure cURL is available."
+msgstr "Παρατηρήσαμε ότι το cURL δεν είναι διαθέσιμο. Για την καλύτερη δυνατή εμπειρία συνιστούμε να το ενεργοποιήσετε."
+
+#. translators: %s: details of outdated platform
+#: src/class-tiny-notices.php:225
+msgid "You are using an outdated platform (%s)."
+msgstr "Χρησιμοποιείτε μια απαρχαιωμένη πλατφόρμα (%s)."
+
+#: src/class-tiny-notices.php:221
+msgid "and curl_exec disabled"
+msgstr "και το curl_exec απενεργοποιημένο"
+
+#: src/class-tiny-notices.php:217
+msgid "without curl"
+msgstr "χωρίς curl"
+
+#. translators: %s: curl version
+#: src/class-tiny-notices.php:214
+msgid "with curl %s"
+msgstr "με curl %s"
+
+#: src/class-tiny-notices.php:291
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#. translators: %s: link saying TinyPNG developer section
+#: src/views/account-status-create-simple.php:13
+msgid "If needed you can go to the %s to retrieve it."
+msgstr "Αν χρειαστεί μπορείτε να πάτε στο %s για να το ανακτήσετε."
+
+#: src/views/account-status-connected.php:68
+#: src/views/account-status-create-advanced.php:40
+msgid "API dashboard"
+msgstr "Πίνακας Ελέγχου API"
+
+#. translators: %s: savings percentage
+#: src/views/dashboard-widget.php:68
+msgid "You have <strong>saved %s</strong> of your media library size."
+msgstr "Έχετε <strong>εξοικονομήσει %s</strong> από το μέγεθος της βιβλιοθήκης σας."
+
+#. translators: %1$d %2$s: number of image sizes, %3$s: link saying upgrade
+#. here
+#: src/views/bulk-optimization.php:167
+msgid "If you wish to compress more than <strong>%1$d %2$s</strong> a month and you are still on a free account %3$s."
+msgstr "Αν επιθυμείτε να συμπιέσετε περισσότερο από <strong>%1$d %2$s</strong> το μήνα και είστε ακόμα με δωρεάν λογαριασμό.%3$s."
+
+#. translators: %s: bulk optimization page
+#: src/views/dashboard-widget.php:30
+msgid "If you like you can to optimize your whole library in one go with the %s page."
+msgstr "Αν θέλετε μπορείτε να βελτιστοποιήσετε ολόκληρη τη βιβλιοθήκη σας με τη μία στη σελίδα %s."
+
+#. translators: %s: friendly user name
+#: src/views/dashboard-widget.php:27
+msgid "Hi %s, you haven’t compressed any images in your media library."
+msgstr "Γειά σου %s, δεν έχεις συμπιέσει καμία εικόνα από τη βιβλιοθήκη σου."
+
+#. translators: %1$dx%2$d: resized image width x height
+#: src/views/compress-details.php:124
+msgid "(resized to %1$dx%2$d)"
+msgstr "(αλλαγή σε %1$dx%2$d)"
+
+#. translators: %d: number of sizes to be compressed
+#: src/views/bulk-optimization.php:138
+msgid "For each uploaded image <strong>%d size</strong> is compressed."
+msgid_plural "For each uploaded image <strong>%d sizes</strong> are compressed."
+msgstr[0] "Για κάθε <strong>%d μέγεθος</strong> εικόνας που συμπιέζεται."
+msgstr[1] "Για κάθε <strong>%d μέγεθος</strong> εικόνας που συμπιέζεται."
+
+#. translators: %s: bulk optimization title
+#: src/views/dashboard-widget.php:1 src/views/bulk-optimization.php:71
+msgid "bulk optimization"
+msgstr "μαζική βελτιστοποίηση"
+
+#. translators: %s: bulk optimization link
+#. translators: %s: bulk optimization title
+#: src/views/dashboard-widget.php:48 src/views/bulk-optimization.php:71
+msgid "Start the %s to optimize the remainder of your library."
+msgstr "Ξεκινήστε το %s για να βελτιστοποιήσετε την υπόλοιπη βιβλιοθήκη σας."
+
+#: src/views/dashboard-widget.php:21 src/views/bulk-optimization.php:52
+msgid "You do not seem to have uploaded any JPEG or PNG images yet."
+msgstr "Φαίνεται πως δεν έχετε μεταφορτώσει καμία εικόνα JPEG ή PNG ακόμα."
+
+#: src/views/bulk-optimization.php:50
+msgid "This page is designed to bulk optimize all your images."
+msgstr "Αυτή η σελίδα είναι σχεδιασμένη για να κάνει μαζική συμπίεση όλων των εικόνων σας."
+
+#: src/views/compress-details.php:121
+msgid "(WP Retina 2x)"
+msgstr "(WP Retina 2x)"
+
+#: src/views/bulk-optimization.php:173
+msgid " upgrade here"
+msgstr "αναβαθμίστε εδώ"
+
+#: src/views/bulk-optimization.php:173
+msgid "image sizes"
+msgstr "μεγέθη εικόνων"
+
+#: src/views/bulk-optimization.php:148
+msgid "here"
+msgstr "εδώ"
+
+#. translators: %s: link to settings page saying here
+#: src/views/bulk-optimization.php:144
+msgid "You can change these settings %s."
+msgstr "Μπορείτε να αλλάξετε αυτές τις ρυθμίσεις %s."
+
+#: src/views/bulk-optimization.php:79
+msgid "Notice that the WP Retina 2x sizes will not be compressed using this page. You will need to bulk generate the retina sizes separately from the WP Retina 2x page."
+msgstr "Να σημειωθεί πως τα μεγέθη WP Retina 2x δεν θα συμπιεστούν χρησιμοποιώντας αυτή τη σελίδα. Θα πρέπει να παράγετε τα retina μεγέθη ξεχωριστά από τη σελίδα WP Retina 2x."
+
+#. translators: %s: friendly user name
+#: src/views/dashboard-widget.php:42 src/views/bulk-optimization.php:64
+msgid "%s, you are doing good."
+msgstr "%s, τα πας καλά."
+
+#. translators: %s: friendly user name
+#: src/views/bulk-optimization.php:61
+msgid "%s, you are doing great!"
+msgstr "%s, τα πας τέλεια!"
+
+#. translators: %s: friendly user name
+#: src/views/dashboard-widget.php:60 src/views/bulk-optimization.php:57
+msgid "%s, this is great! Your entire library is optimized!"
+msgstr "%s, τα πας τέλεια! Όλη η βιβλιοθήκη σου είναι βελτιστοποιημένη!"
+
+#: src/class-tiny-settings.php:625
+msgid "Each retina size will count as an additional compression."
+msgstr "Κάθε μέγεθος retina μετράει σαν επιπλέον συμπίεση."
+
+#: src/class-tiny-settings.php:620
+msgid "If selected, retina sizes will be compressed when generated by WP Retina 2x"
+msgstr "Αν το επιλέξετε, τα retina μεγέθη θα συμπιεστούν όταν παραχθούν από το WP Retina 2x"
+
+#: src/class-tiny-settings.php:559
+msgid "WP Retina 2x sizes"
+msgstr "Μεγέθη WP Retina 2x"
+
+#. translators: %1$.0f%%: savings percentage, %2$s: total file size savings
+#: src/views/compress-details.php:174
+msgid "Total savings %1$.0f%% (%2$s)"
+msgstr "Συνολική εξοικονόμηση%1$.από%% (%2$s)"
+
+#: src/views/compress-details.php:148
+msgid "Size is not in use"
+msgstr "Το μέγεθος δεν χρησιμοποιείται"
+
+#: src/views/compress-details.php:139
+msgid "Not present"
+msgstr "Δεν είναι παρών"
+
+#. translators: %s human friendly time difference
+#: src/views/compress-details.php:136
+msgid "%s ago"
+msgstr "πριν από %s"
+
+#. translators: %s: name of similar thumbnail size
+#: src/views/compress-details.php:131
+msgid "Same file as \"%s\""
+msgstr "Ίδιο αρχείο με το \"%s\""
+
+#: src/views/compress-details.php:115
+msgid "(not in use)"
+msgstr "(δεν χρησιμοποιείται)"
+
+#: src/views/compress-details.php:72
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+#. translators: %.0f%: savings percentage
+#. translators: %.0f%%: savings percentage
+#: src/views/compress-details.php:60 src/views/compress-details.php:180
+msgid "Total savings %.0f%%"
+msgstr "Συνολική εξοικονόμηση %.από%%"
+
+#. translators: %d: number of compressed sizes
+#: src/views/compress-details.php:40
+msgid "<strong>%d</strong> size compressed"
+msgid_plural "<strong>%d</strong> sizes compressed"
+msgstr[0] "<strong>%d</strong> μέγεθος συμπιέστηκε"
+msgstr[1] "<strong>%d</strong> μεγέθη συμπιέστηκαν"
+
+#: src/views/bulk-optimization.php:263
+msgid "Current Size"
+msgstr "Τρέχον Μέγεθος"
+
+#: src/views/bulk-optimization.php:262 src/views/compress-details.php:96
+msgid "Initial Size"
+msgstr "Αρχικό Μέγεθος"
+
+#: src/views/bulk-optimization.php:221
+msgid "current size"
+msgstr "τρέχον μέγεθος"
+
+#: src/views/bulk-optimization.php:213
+msgid "initial size"
+msgstr "αρχικό μέγεθος"
+
+#: src/views/bulk-optimization.php:205
+msgid "image size optimized"
+msgid_plural "image sizes optimized"
+msgstr[0] "μέγεθος εικόνας βελτιστοποιήθηκε"
+msgstr[1] "μεγέθη εικόνας βελτιστοποιήθηκαν"
+
+#: src/views/bulk-optimization.php:193
+msgid "Statistics based on all available JPEG and PNG images in your media library."
+msgstr "Στατιστικά βασισμένα σε όλες τις διαθέσιμες εικόνες JPEG και PNG της βιβλιοθήκης σας."
+
+#: src/views/bulk-optimization.php:191
+msgid "Total Savings"
+msgstr "Συνολική Εξοικονόμηση"
+
+#: src/views/bulk-optimization.php:184
+msgid "For the plugin to do the work, you need to keep this page open. But no worries: when stopped, you can continue where you left off!"
+msgstr "Για να λειτουργήσει το πρόσθετο, πρέπει να κρατήσετε αυτή τη σελίδα ανοιχτή. Μην ανησυχείτε: όταν τελειώσει, μπορείτε να συνεχίσετε από εκεί που μείνατε!"
+
+#: src/views/bulk-optimization.php:182
+msgid "Remember"
+msgstr "Θυμηθείτε"
+
+#: src/views/bulk-optimization.php:155
+msgid "Estimated <br> cost"
+msgstr "Εκτιμώμενο <br> κόστος"
+
+#: src/views/bulk-optimization.php:120
+msgid "These sizes are currently activated for compression:"
+msgstr "Αυτά τα μεγέθη είναι ενεργά προς συμπίεση:"
+
+#. translators: %s: number of optimizable sizes and number of uploaded images
+#. translators: %1$s: number of sizes that can be optimised, %2$s number of
+#. images
+#: src/views/dashboard-widget.php:45 src/views/bulk-optimization.php:110
+msgid "With your current settings you can still optimize %1$s image sizes from your %2$s uploaded JPEG and PNG images."
+msgstr "Με τις ενεργές ρυθμίσεις σας μπορείτε να βελτιστοποιήσετε %1$sμεγέθη εικόνων%2$s από τις ανεβασμένες εικόνες JPEG και PNG."
+
+#: src/views/bulk-optimization.php:96
+msgid "Uncompressed image sizes"
+msgstr "Μη συμπιεσμένα μεγέθη εικόνων"
+
+#: src/views/bulk-optimization.php:86
+msgid "Uploaded <br> images"
+msgstr "Ανεβασμένες <br> εικόνες"
+
+#: src/views/bulk-optimization.php:73
+msgid "Here you can start optimizing your entire library. Press the big button to start improving your website speed instantly!"
+msgstr "Εδώ μπορείτε να αρχίσετε τη βελτιστοποίηση ολόκληρης της βιβλιοθήκη σας. Πατήστε το μεγάλο κουμπί για να βελτιώσετε την ταχύτητα του ιστότοπού σας τώρα!"
+
+#. translators: %1$d%2$s: percentage optimised
+#: src/views/bulk-optimization.php:68
+msgid "%1$d%2$s of your image library is optimized."
+msgstr "%1$d%2$s της βιβλιοθήκης έχει βελτιστοποιηθεί."
+
+#: src/views/bulk-optimization.php:54 src/views/bulk-optimization.php:118
+msgid "Based on your current settings, nothing will be optimized. There are no active sizes selected for optimization."
+msgstr "Με βάση τις τρέχουσες ρυθμίσεις σας, τίποτα δεν θα βελτιστοποιηθεί. Δεν υπάρχουν ενεργά μεγέθη που έχουν επιλεγεί για βελτιστοποίηση."
+
+#: src/views/bulk-optimization.php:41
+msgid "Available Images"
+msgstr "Διαθέσιμες Εικόνες"
+
+#: src/views/bulk-optimization-form.php:8
+msgid "Cancelling"
+msgstr "Ακύρωση"
+
+#: src/views/bulk-optimization-form.php:6
+msgid "Optimizing"
+msgstr "Βελτιστοποίηση"
+
+#: src/views/bulk-optimization-form.php:5
+msgid "Start Bulk Optimization"
+msgstr "Εκκίνηση Μαζικής Βελτιστοποίησης"
+
+#: src/views/optimization-chart.php:53
+msgid "savings"
+msgstr "εξοικονόμηση"
+
+#: src/views/account-status-loading.php:4
+msgid "Retrieving account status"
+msgstr "Ανάκτηση κατάστασης λογαριασμού"
+
+#: src/views/account-status-create-simple.php:9
+msgid "Enter your API key."
+msgstr "Εισάγετε κλεδί API."
+
+#: src/views/account-status-create-simple.php:3
+msgid "Configure your account"
+msgstr "Ρυθμίστε το λογαριασμό σας"
+
+#. translators: %s: link saying API dashboard
+#: src/views/account-status-create-advanced.php:43
+msgid "Enter your API key. Go to your %s to retrieve it."
+msgstr "Εισάγετε το κλειδί API. Πηγαίνετε στο %s για να το ανακτήσετε"
+
+#: src/views/account-status-create-advanced.php:35
+msgid "Already have an account?"
+msgstr "Έχετε ήδη λογαριασμό;"
+
+#: src/views/account-status-create-advanced.php:29
+msgid "Register Account"
+msgstr "Δημιουργία Λογαριασμού"
+
+#: src/views/account-status-create-advanced.php:14
+msgid "Provide your name and email address to start optimizing images."
+msgstr "Δώστε το όνομα και το email σας για να αρχίσετε να συμπιέζετε εικόνες."
+
+#: src/views/account-status-create-advanced.php:10
+msgid "Register new account"
+msgstr "Δημιουργία νέου λογαριασμού"
+
+#: src/views/account-status-connected.php:84
+#: src/views/bulk-optimization-form.php:7
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: src/views/account-status-connected.php:80
+#: src/views/account-status-create-simple.php:24
+#: src/views/account-status-create-advanced.php:55
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#. translators: %s: link saying API dashboard
+#: src/views/account-status-connected.php:71
+msgid "Enter your API key. If you have lost your key, go to your %s to retrieve it."
+msgstr "Εισάγετε το κλειδί API. Αν το έχετε χάσει, πηγαίνετε στο %s για να το ανακτήσετε."
+
+#: src/views/account-status-connected.php:65
+msgid "Change your API key"
+msgstr "Αλλάξτε το κλειδί API"
+
+#: src/views/account-status-connected.php:17
+msgid "Change API key"
+msgstr "Αλλάξτε το κλειδί API"
+
+#: src/views/account-status-connected.php:8
+msgid "Your account is connected"
+msgstr "Ο λογαριασμός σας συνδέθηκε"
+
+#: src/class-tiny-settings.php:883
+msgid "Please enter your email address"
+msgstr "Παρακαλώ συμπληρώστε το email σας"
+
+#: src/class-tiny-settings.php:872
+msgid "Please enter your name"
+msgstr "Παρακαλώ εισάγετε το όνομά σας"
+
+#: src/class-tiny-settings.php:691
+msgid "Preserve GPS location in the original image"
+msgstr "Διατήρηση της τοποθεσίας GPS στην αρχική εικόνα"
+
+#: src/class-tiny-settings.php:683
+msgid "Preserve copyright information in the original image"
+msgstr "Διατήρηση πληροφοριών πνευματικής ιδιοκτησίας στην αρχική εικόνα"
+
+#: src/class-tiny-settings.php:695
+msgid "(JPEG only)"
+msgstr "(Μόνο JPEG)"
+
+#: src/class-tiny-settings.php:675
+msgid "Preserve creation date and time in the original image"
+msgstr "Διατήρηση της ημερομηνίας δημιουργίας και του χρόνου στην αρχική εικόνα"
+
+#: src/class-tiny-notices.php:174
+msgid "Please activate your account to start compressing images."
+msgstr "Παρακαλώ ενεργοποιήστε το λογαριασμό σας για να αρχίσετε να συμπιέζετε εικόνες."
+
+#: src/class-tiny-notices.php:162
+msgid "Please register or provide an API key to start compressing images."
+msgstr "Παρακαλώ κάντε εγγραφή ή δώστε ένα κλειδί API για να αρχίσετε να συμπιέζετε εικόνες."
+
+#: src/class-tiny-plugin.php:391 src/class-tiny-plugin.php:438
+msgid "You don't have permission to upload files."
+msgstr "Δεν έχετε άδεια να μεταφορτώσετε πολυμέσα στον ιστότοπο."
+
+#: src/class-tiny-plugin.php:234
+msgid "Show more details"
+msgstr "Δείτε περισσότερες λεπτομέρειες"
+
+#: src/class-tiny-plugin.php:233 src/views/bulk-optimization.php:265
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: src/class-tiny-plugin.php:231
+msgid "Current size"
+msgstr "Τρέχον μέγεθος"
+
+#: src/class-tiny-plugin.php:230
+msgid "Initial size"
+msgstr "Αρχικό μέγεθος"
+
+#: src/class-tiny-plugin.php:229
+msgid "Sizes optimized"
+msgstr "Μεγέθη που βελτιστοποιήθηκαν"
+
+#: src/class-tiny-plugin.php:228 src/views/bulk-optimization.php:261
+msgid "File"
+msgstr "Αρχείο"
+
+#: src/class-tiny-plugin.php:227
+msgid "compressed"
+msgstr "συμπιέστηκε"
+
+#: src/class-tiny-plugin.php:225
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+#: src/class-tiny-plugin.php:223
+msgid "No action taken"
+msgstr "Καμία ενέργεια δεν έγινε"
+
+#: src/class-tiny-plugin.php:158 src/class-tiny-plugin.php:159
+#: src/class-tiny-plugin.php:174 src/views/bulk-optimization.php:36
+msgid "Bulk Optimization"
+msgstr "Μαζική Βελτιστοποίηση"
+
+#: src/views/compress-details.php:145
+msgid "Not configured to be compressed"
+msgstr "Δεν ρυθμίστηκε για να συμπιεστεί"
+
+#: src/views/compress-details.php:142
+msgid "Not compressed"
+msgstr "Δεν συμπιέστηκε"
+
+#: src/class-tiny-plugin.php:607
+msgid "JPEG and PNG optimization"
+msgstr "Βελτιστοποίηση JPEG και PNG"
+
+#: src/views/compress-details.php:160
+msgid "Combined"
+msgstr "Συνδυασμένα"
+
+#: src/views/compress-details.php:117
+msgid "(file removed)"
+msgstr "(το αρχείο αφαιρέθηκε)"
+
+#: src/views/compress-details.php:119
+msgid "(modified after compression)"
+msgstr "(τροποποιήθηκε μετά τη συμπίεση)"
+
+#: src/views/compress-details.php:98
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: src/views/compress-details.php:97
+msgid "Compressed"
+msgstr "Συμπιέστηκε"
+
+#: src/views/compress-details.php:112
+msgid "Original"
+msgstr "Αρχικό"
+
+#: src/views/compress-details.php:95
+msgid "Size"
+msgstr "Μέγεθος"
+
+#. translators: %s is the image filename
+#: src/views/compress-details.php:90
+msgid "Compression details for %s"
+msgstr "Λεπτομέρειες συμπίεσης για το %s"
+
+#: src/views/compress-details.php:80
+msgid "Compress"
+msgstr "Συμπίεση"
+
+#: src/class-tiny-plugin.php:236 src/views/compress-details.php:67
+msgid "Latest error"
+msgstr "Τελευταίο σφάλμα"
+
+#. translators: %d: number of sizes to be compressed
+#: src/views/compress-details.php:51
+msgid "%d size to be compressed"
+msgid_plural "%d sizes to be compressed"
+msgstr[0] "%d μέγεθος προς συμπίεση"
+msgstr[1] "%d μεγέθη προς συμπίεση"
+
+#. translators: %s: number of compressions
+#: src/views/account-status-connected.php:36
+msgid "You have made %s compressions this month."
+msgstr "Κάνατε %s συμπιέσεις αυτό το μήνα."
+
+#: src/views/account-status-connected.php:46
+msgid "API status could not be checked, enable cURL for more information"
+msgstr "Η κατάσταση του API δεν μπόρεσε να ελεγχθεί, ενεργοποιήστε το cURL για περισσότερες πληροφορίες"
+
+#: src/views/account-status-connected.php:11
+msgid "Connection unsuccessful"
+msgstr "Η σύνδεση ήταν ανεπιτυχής"
+
+#. translators: %s: link saying TinyPNG API account
+#: src/class-tiny-notices.php:197
+msgid "Upgrade your %s if you like to compress more images."
+msgstr "Αναβαθμίστε το %s αν θέλετε να συμπιέσετε περισσότερες εικόνες."
+
+#: src/class-tiny-notices.php:188
+msgid "TinyPNG API account"
+msgstr "Λογαριασμός TinyPNG API"
+
+#: src/class-tiny-settings.php:669
+msgid "Max Height"
+msgstr "Μέγιστο Ύψος"
+
+#: src/class-tiny-settings.php:667
+msgid "Max Width"
+msgstr "Μέγιστο Πλάτος"
+
+#: src/class-tiny-settings.php:640
+msgid "Enable compression of the original image size for more options."
+msgstr "Ενεργοποιήστε τη συμπίεση του αρχικού μεγέθους για περισσότερες επιλογές."
+
+#. translators: %1$s: number of images
+#: src/class-tiny-settings.php:612
+msgid "With these settings you can compress <strong>at least %1$s images</strong> for free each month."
+msgstr "Με αυτές τις ρυθμίσεις μπορείτε να συμπιέσετε <strong>τουλάχιστον %1$s εικόνες</strong> δωρεάν κάθε μήνα."
+
+#: src/class-tiny-settings.php:598
+msgid "With these settings no images will be compressed."
+msgstr "Με αυτές τις ρυθμίσεις καμία εικόνα δεν θα συμπιεστεί."
+
+#: src/class-tiny-settings.php:554
+msgid "overwritten by compressed image"
+msgstr "θα αντικατασταθεί από τη συμπιεσμένη εικόνα"
+
+#: src/views/account-status-create-simple.php:6
+msgid "TinyPNG developer section"
+msgstr "Ενότητα TinyPNG για προγραμματιστές"
+
+#. translators: %s: wp-config.php
+#: src/views/account-status-connected.php:56
+msgid "The API key has been configured in %s"
+msgstr "Το κλειδί API ρυθμίστηκε στο %s"
+
+#: src/class-tiny-plugin.php:232 src/views/bulk-optimization.php:264
+msgid "Savings"
+msgstr "Εξοικονόμηση"
+
+#: src/class-tiny-settings.php:553 src/views/settings.php:41
+#: src/views/bulk-optimization.php:125
+msgid "Original image"
+msgstr "Αρχική εικόνα"
+
+#: src/class-tiny-plugin.php:586
+msgid "Compression"
+msgstr "Συμπίεση"
+
+#: src/class-tiny-plugin.php:409 src/class-tiny-plugin.php:460
+#: src/class-tiny-plugin.php:542
+msgid "Could not find metadata of media file."
+msgstr "Δεν ανιχνεύθηκαν μετα-δεδομένα από το αρχείο πολυμέσων."
+
+#: src/class-tiny-plugin.php:399 src/class-tiny-plugin.php:448
+#: src/class-tiny-plugin.php:532
+msgid "Not a valid media file."
+msgstr "Μη έγκυρο αρχείο πολυμέσων."
+
+#: src/class-tiny-plugin.php:239
+msgid "Waiting"
+msgstr "Αναμονή"
+
+#: src/class-tiny-plugin.php:238
+msgid "out of"
+msgstr "από"
+
+#: src/class-tiny-plugin.php:237
+msgid "Internal error"
+msgstr "Εσωτερικό σφάλμα"
+
+#: src/class-tiny-plugin.php:235 src/views/account-status-connected.php:43
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: src/views/compress-details-processing.php:5
+msgid "compressing"
+msgstr "συμπίεση"
+
+#: src/class-tiny-plugin.php:226
+msgid "Compressing"
+msgstr "Συμπίεση"
+
+#: src/class-tiny-plugin.php:224
+msgid "Compress Images"
+msgstr "Συμπίεση εικόνων"
+
+#: src/class-tiny-plugin.php:222
+msgid "All images are processed"
+msgstr "Όλες οι εικόνες είναι συμπιεσμένες"
+
+#: src/class-tiny-plugin.php:170
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: src/class-tiny-notices.php:146
+msgid "Dismiss"
+msgstr "Ματαίωση"
+
+#. Author URI of the plugin
+msgid "https://tinypng.com"
+msgstr "https://tinypng.com"
+
+#. Author of the plugin
+msgid "TinyPNG"
+msgstr "TinyPNG"
+
+#. Description of the plugin
+#: src/views/settings.php:3
+msgid "Speed up your website. Optimize your JPEG and PNG images automatically with TinyPNG."
+msgstr "Κάντε τον ιστότοπό σας πιο γρήγορο. Βελτιστοποιήστε τις εικόνες JPEG και PNG αυτόματα με το TinyPNG."
+
+#. Plugin Name of the plugin
+#: src/class-tiny-plugin.php:671 src/class-tiny-notices.php:150
+#: src/class-tiny-notices.php:271 src/class-tiny-notices.php:281
+#: src/class-tiny-settings.php:123 src/class-tiny-settings.php:124
+#: src/class-tiny-settings.php:415 src/views/settings.php:2
+msgid "Compress JPEG & PNG images"
+msgstr "Compress JPEG & PNG images"

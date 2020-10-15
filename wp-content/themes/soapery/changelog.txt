@@ -1,0 +1,50 @@
+﻿Version 1.5
+	Added:
+	    - Compatibility with WP 4.9.8
+        - WP GDPR Compliance plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+
+    Fixed:
+        - Compatibility with Gutenberg and other PageBuilders
+        - Update plugins to their latest versions
+        - Improve theme styles
+
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+        - Move Importer to ThemeREX Utils plugin
+		- Update demo data
+
+
+Version 1.4
+    WordPress Version 4.9.4 ready
+    Compatibility with PHP7.1
+    Updated Revolution Slider to its latest version
+    Updated WPBakery PageBuilder to its latest version
+    Updated Essential Grid to its latest version
+    Updated demo data
+    Fixed shortcode WPBakery PageBuilder in PHP7.1
+    Fixed WooCommerce
+    Fixed Imports
+    Added new CSS styles
+
+Version 1.3 – Update
+    - Plugins updated.
+    - Documentations updated.
+    - Compatibility with PHP7
+    - The theme is now compatible with version WooCommerce 3.0 and higher.
+
+Version 1.2.1 – Update
+    - Added social login support.
+    - Updated WPBakery PageBuilder plugin.
+
+Version 1.2 – Update
+    - Updated Revolution Slider and other plugins to their latest versions
+    - Google Map's issue fixed
+
+Version 1.1 - Update
+	– Update tgmpa to their latest version
+	- Demo data installation improved
+
+Version 1.0
+	– Release

@@ -1,0 +1,9 @@
+wp-config.php
+.htaccess
+wp-content/uploads
+wp-content/w3tc-config
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+node_modules
+.idea
+./.idea

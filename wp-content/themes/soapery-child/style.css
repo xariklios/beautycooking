@@ -1,0 +1,17 @@
+/*
+Theme Name: Soapery Child
+Theme URI: http://nailbar.ancorathemes.com/
+Description: Soapery Child - Multipurpose and Multiskin Responsive Wordpress theme
+Author: Acnorathemes
+Author URI: http://ancorathemes.com/
+Template: soapery
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: light, responsive-layout, flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+Text Domain: soapery-child
+*/
+
+/*Write your style*/
+
+@import url("../soapery/style.css");

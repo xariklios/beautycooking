@@ -1,0 +1,950 @@
+# Translation of Plugins - WP GDPR Compliance - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - WP GDPR Compliance - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-26 10:04:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - WP GDPR Compliance - Stable (latest release)\n"
+
+#: Includes/Action.php:157
+msgid "More information"
+msgstr "Περισσότερες Πληροφορίες"
+
+#: Includes/Extensions/WPRegistration.php:86
+msgid "user has given consent when registering"
+msgstr "ο χρήστης έδωσε την συγκατάθεση κατά την εγγραφή του"
+
+#: Includes/Shortcode.php:165
+msgid "You need to make sure you have added atleast one (1) active consent."
+msgstr "Σιγουρευτείτε ότι προσθέσατε τουλάχιστον μια (1) ενεργή συγκατάθεση."
+
+#: Includes/Page.php:680
+msgid "Snippet will be added at the end of the BODY tag."
+msgstr "Το Snippet θα προστεθεί στο τέλος της ετικέτας BODY."
+
+#: Includes/Page.php:670
+msgid "Snippet will be added at the end of the HEAD tag."
+msgstr "Το Snippet θα προστεθεί στο τέλος της ετικέτας HEAD."
+
+#: Includes/Page.php:509
+msgid "Bar Color"
+msgstr "Χρώμα μπάρας"
+
+#: Includes/Page.php:516
+msgid "Bar Text Color"
+msgstr "Χρώμα κειμένου μπάρας"
+
+#: Includes/Page.php:523
+msgid "Button Color Primary"
+msgstr "Πρωτεύον χρώμα κουμπιού"
+
+#: Includes/Page.php:531
+msgid "Button Color Secondary"
+msgstr "Δευτερεύον χρώμα κουμπιού"
+
+#: Includes/Integration.php:385
+msgid "When activated the GDPR checkbox will be added automatically just above the register button."
+msgstr "Όταν ενεργοποιηθεί, το πλαίσιο ελέγχου GDPR θα προστεθεί αυτόματα ακριβώς πάνω από το κουμπί εγγραφής."
+
+#: Includes/Integration.php:384
+msgid "Wordpress Registration"
+msgstr "Εγγραφή WordPress "
+
+#: Includes/Page.php:372
+msgid "Currently you do not have a privacy policy page selected"
+msgstr "Αυτήν τη στιγμή δεν έχετε επιλέξει μια σελίδα πολιτικής απορρήτου"
+
+#: Includes/Helper.php:147
+msgid "The consent bar has been reset."
+msgstr "Έγινε επαναφορά της μπάρας συγκατάθεσης."
+
+#: Includes/Page.php:725
+msgid "Click this button if you want to reset the consent bar, this means that the consent bar will appear again for all users."
+msgstr "Κάντε κλικ σε αυτό το κουμπί, εάν θέλετε να επαναφέρετε τη γραμμή συγκατάθεσης, αυτό σημαίνει ότι η μπάρα συγκατάθεσης θα εμφανιστεί ξανά για όλους τους χρήστες."
+
+#: Includes/Integration.php:310
+msgid "http://www.example.com"
+msgstr "http://www.example.com"
+
+#: Includes/Extensions/WP.php:34
+msgid "required"
+msgstr "υποχρεωτικό"
+
+#: Includes/Cron.php:21
+msgid "Once a month"
+msgstr "Μια φορά το μήνα"
+
+#: Includes/Page.php:348
+msgid "Activate external links"
+msgstr "Ενεργοποίηση εξωτερικών συνδέσμων"
+
+#: Includes/DeleteRequest.php:234
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+#: Includes/Page.php:384
+msgid "External Privacy Policy Link"
+msgstr "Σύνδεσμος εξωτερικής πολιτικής απορρήτου"
+
+#: Includes/Extensions/WP.php:33
+msgid "This checkbox is checked because you are an admin"
+msgstr "Αυτό το checkbox είναι επιλεγμένο επειδή είστε διαχειριστής"
+
+#: Includes/Page.php:842 Includes/Page.php:948
+msgid "Requests are automatically anonymised after %d days."
+msgstr "Τα αιτήματα ανωνυμοποιούνται αυτόματα μετά από %d μέρες."
+
+#: Includes/Page.php:880
+msgid "N/A"
+msgstr "Μ/Δ"
+
+#: Includes/Ajax.php:196
+msgid "Missing token."
+msgstr "Λείπει το διακριτικό (token)."
+
+#: Includes/Ajax.php:40
+msgid "You're not allowed to manage settings."
+msgstr "Δεν έχετε δικαιώματα διαχείρισης ρυθμίσεων."
+
+#: Includes/Ajax.php:44
+msgid "You're not allowed to manage this setting."
+msgstr "Δεν σας επιτρέπεται η διαχείριση αυτής της ρύθμισης."
+
+#: Includes/Integration.php:197 Includes/Integration.php:232
+msgid "Required message"
+msgstr "Υποχρεωτικό μήνυμα"
+
+#: Includes/Page.php:261
+msgid "We think you might have a mail plugin installed."
+msgstr "Νομίζουμε ότι ίσως έχετε εγκατεστημένο ένα πρόσθετο mail."
+
+#: Includes/Integration.php:291
+msgid "You need to accept this checkbox."
+msgstr "Πρέπει να αποδεχτείτε αυτό το πλαίσιο ελέγχου."
+
+#: Includes/Page.php:693
+msgid "Ticking this checkbox means this Consent will always be triggered so users cannot opt-in or opt-out."
+msgstr "Η επιλογή αυτού του πλαισίου ελέγχου σημαίνει ότι, αυτή η συγκατάθεση θα ενεργοποιείται πάντα, ώστε οι χρήστες να μην μπορούν να συμμετέχουν ή να αποχωρούν."
+
+#: Includes/Page.php:264
+msgid "Do you know where you got your email database from? Did you ask all the people on your newsletter(s) if they consent to receiving it? GDPR requires that all of the people in your email software has given you explicit permission to mail them."
+msgstr "Γνωρίζετε από πού πήρατε τη βάση με τις διευθύνσεις ηλεκτρονικού ταχυδρομείου; Ζητήσατε από όλους τους ανθρώπους στο ενημερωτικό δελτίο σας εάν συμφωνούν να το λάβουν; Ο ΓΚΠΔ (GDPR) απαιτεί όλοι οι χρήστες του λογισμικού ηλεκτρονικού ταχυδρομείου να σας έχουν δώσει ρητή άδεια να τους στέλνετε μηνύματα ηλεκτρονικού ταχυδρομείου."
+
+#: Includes/Page.php:774
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: Includes/Action.php:230 Includes/Page.php:755
+msgid "(no title)"
+msgstr "(χωρίς τίτλο)"
+
+#: Includes/Helper.php:140
+msgid "Consent has been removed successfully."
+msgstr "Η συναίνεση έχει αφαιρεθεί επιτυχώς."
+
+#: Includes/Consent.php:296
+msgid "Wrap my code snippet with <script> tags"
+msgstr "Προσθήκη του κομματιού του κώδικά μου με ετικέτες <script>"
+
+#: Includes/Consent.php:297
+msgid "Do not wrap my code snippet"
+msgstr "Μην προσθέσετε τίποτα στο κομμάτι του κώδικά μου"
+
+#: Includes/Action.php:269
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: Includes/Page.php:634
+msgid "Code Wrap"
+msgstr "Ανάπτυγμα κώδικα"
+
+#: Includes/Page.php:623
+msgid "Code Snippet"
+msgstr "Κομμάτι Κώδικα"
+
+#: Includes/Page.php:607
+msgid "e.g. \"Google Analytics\" or \"Advertising\""
+msgstr "π.χ. \"Google Analytics\" ή \"Διαφήμιση\""
+
+#: Includes/Page.php:482
+msgid "Your visitors can give permission to all of the created Consents (scripts) through a Consent bar at the bottom of their screen. There they can also access their personal settings to give or deny permission to individual Consents. Once their settings are saved the bar disappears for 365 days."
+msgstr "Οι επισκέπτες μπορούν να δώσουν δικαίωμα σε όλες τις συναινέσεις (scripts) μέσω της μπάρας συναίνεσης στο κάτω μέρος της οθόνης. Εκεί μπορούν επίσης να αποκτήσουν πρόσβαση στις προσωπικές ρυθμίσεις για να αποδεχτούν ή να απορρίψουν κάθε ξεχωριστή συναίνεση. Μόλις αποθηκευτούν οι ρυθμίσεις τους η μπάρα θα εξαφανιστεί για 365 μέρες."
+
+#: Includes/Page.php:489
+msgid "Let your visitors re-access their settings by placing a link to the modal with the shortcode %s or add the \"%s\" class to a menu item."
+msgstr "Επιτρέψτε στους επισκέπτες να αποκτήσουν πρόσβαση στις ρυθμίσεις τους τοποθετώντας έναν σύνδεσμο στο παραθυράκι με τον shortcode %s, αλλιώς προσθέστε την \"%s\" class σε κάποιο στοιχείο μενού."
+
+#: Includes/Page.php:806
+msgid "No consents found."
+msgstr "Δεν βρέθηκαν εγγραφές συναίνεσης."
+
+#: Includes/Page.php:769
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: Includes/Page.php:738
+msgid "Created at"
+msgstr "Δημιουργήθηκε στις"
+
+#: Includes/Helper.php:134
+msgid "Consent has been updated successfully."
+msgstr "Η συναίνεση έχει ενημερωθεί επιτυχώς."
+
+#: Includes/Page.php:539
+msgid "Modal: Title"
+msgstr "Παράθυρο: Τίτλος"
+
+#: Includes/Page.php:501
+msgid "Bar: Explanation"
+msgstr "Μπάρα: Εξήγηση"
+
+#: Includes/Page.php:737
+msgid "Modified at"
+msgstr "Τροποποιήθηκε στις"
+
+#: Includes/Page.php:734
+msgid "Consent"
+msgstr "Συναίνεση"
+
+#: Includes/Page.php:721
+msgctxt "consent"
+msgid "Add New"
+msgstr "Προσθήκη Νέας"
+
+#: Includes/Page.php:700
+msgid "Back to overview"
+msgstr "Πίσω στην επισκόπηση"
+
+#: Includes/Page.php:698
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: Includes/Page.php:698
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: Includes/Page.php:651
+msgid "Placement"
+msgstr "Τοποθέτηση"
+
+#: Includes/Page.php:629
+msgid "Code snippets for Google Analytics, Facebook Pixel, etc."
+msgstr "Κομμάτια κώδικα για το Google Analytics, Facebook Pixel, κτλ."
+
+#: Includes/Page.php:612
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: Includes/Page.php:602 Includes/Page.php:735
+msgid "Title"
+msgstr "Τίτλος"
+
+#: Includes/Page.php:592
+msgid "Add New Consent"
+msgstr "Προσθήκη Νέας Συναίνεσης"
+
+#: Includes/Page.php:548
+msgid "Modal: Explanation"
+msgstr "Παράθυρο: Επεξήγηση"
+
+#: Includes/Page.php:70 Includes/Page.php:480
+msgid "Consents"
+msgstr "Εγγραφές συναίνεσης"
+
+#: Includes/Page.php:679 Includes/Consent.php:308
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: Includes/Page.php:669 Includes/Consent.php:306
+msgid "Head"
+msgstr "Επικεφαλίδα"
+
+#: Includes/Consent.php:81
+msgid "This site uses functional cookies and external scripts to improve your experience."
+msgstr "Αυτή η σελίδα χρησιμοποιεί cookies για την λειτουργία της και εξωτερικές υπηρεσίες για την βελτίωση της εμπειρίας."
+
+#: Includes/Consent.php:55
+msgid "Privacy Settings"
+msgstr "Ρυθμίσεις Ιδιωτικότητας"
+
+#: Includes/Action.php:293
+msgid "Close modal"
+msgstr "Κλείσιμο παραθύρου"
+
+#: Includes/Action.php:214
+msgid "Save my settings"
+msgstr "Αποθήκευση των ρυθμίσεών μου"
+
+#: Includes/Action.php:244
+msgid "These settings will only apply to the browser and device you are currently using."
+msgstr "Αυτές οι ρυθμίσεις θα εφαρμοστούν μόνο στον περιηγητή και την συσκευή που χρησιμοποιείτε αυτή τη στιγμή."
+
+#: Includes/Action.php:182 Includes/Action.php:214
+msgid "Accept"
+msgstr "Αποδοχή"
+
+#: Includes/Action.php:157 Includes/Page.php:492 Includes/Shortcode.php:169
+msgid "My settings"
+msgstr "Οι ρυθμίσεις μου"
+
+#: Includes/Helper.php:144
+msgid "Couldn't find this consent."
+msgstr "Δεν μπόρεσε να βρεθεί αυτή η συναίνεση."
+
+#: Includes/Consent.php:68
+msgid "This site uses functional cookies and external scripts to improve your experience. Which cookies and scripts are used and how they impact your visit is specified on the left. You may change your settings at any time. Your choices will not impact your visit."
+msgstr "Αυτή η σελίδα χρησιμοποιεί cookies για την λειτουργία της και εξωτερικές υπηρεσίες για την βελτίωση της εμπειρίας. Τα cookies και οι υπηρεσίες που χρησιμοποιούνται και το πως επηρεάζει την επίσκεψή σας, αναφέρονται στα αριστερά. Μπορείτε να αλλάξετε τις ρυθμίσεις οποιαδήποτε στιγμή. Οι επιλογές σας δεν θα επηρεάσουν την επίσκεψή σας."
+
+#: Includes/Helper.php:137
+msgid "Consent has been added successfully."
+msgstr "Η συναίνεση έχει προστεθεί επιτυχώς."
+
+#: Includes/Shortcode.php:140
+msgid "Send"
+msgstr "Αποστολή"
+
+#: Includes/Shortcode.php:126
+msgid "Your Email Address"
+msgstr "Η διεύθυνση email σας"
+
+#: Includes/Shortcode.php:90
+msgid "If needed you can put in a new request after 24 hours here: %s."
+msgstr "Αν χρειαστεί μπορείτε να κάνετε εκ νέου αίτημα μετά από 24 ώρες εδώ: %s."
+
+#: Includes/Page.php:594 Includes/Page.php:740 Includes/Page.php:987
+msgid "Active"
+msgstr "Ενεργό"
+
+#: Includes/Page.php:960
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: Includes/Page.php:165
+msgid "Support forum"
+msgstr "Φόρουμ υποστήριξης"
+
+#: Includes/Page.php:164
+msgid "Need a helping hand? Please ask for help on the %s. Be sure to mention your WordPress version and give as much additional information as possible."
+msgstr "Χρειάζεστε ένα χέρι βοήθειας; Παρακαλώ ρωτήστε για βοήθεια σχετικά στο %s. Σιγουρευτείτε ότι αναφέρετε την WordPress σας έκδοση και να δώστε όσο περισσότερες πληροφορίες μπορείτε."
+
+#: Includes/Page.php:162
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: Includes/Shortcode.php:88
+msgid "You are only able to view your data when visiting this page on the same device with the same IP and in the same browser session as when you performed your request. This is an extra security measure to keep your data safe."
+msgstr "Μπορείτε να δείτε τα δεδομένα σας μόνο όταν επισκέπτεστε αυτήν τη σελίδα από την ίδια συσκευή, με την ίδια διεύθυνση IP και κατά την ίδια περίοδο λειτουργίας του περιηγητή σας όπως όταν εκτελέσατε το αίτημα. Αυτό είναι ένα επιπλέον μέτρο ασφαλείας για να διατηρείτε τα δεδομένα σας ασφαλή."
+
+#: Includes/Page.php:155
+msgid "Did %s help you out? Please leave a 5-star review. Thank you!"
+msgstr "Το %s σας βοηθήσε; Παρακαλούμε αφήστε μια κριτική 5 αστέρων. Ευχαριστούμε!"
+
+#: Includes/Ajax.php:162
+msgid "If your link is invalid you can fill in a new request after 24 hours: %s."
+msgstr "Εάν ο σύνδεσμός σας είναι άκυρος, μπορείτε να συμπληρώσετε ένα νέο αίτημα μετά από 24 ώρες: %s."
+
+#: Includes/Ajax.php:160
+msgid "This page is available for 24 hours and can only be reached from the same device, IP address and browser session you requested from."
+msgstr "Αυτή η σελίδα είναι διαθέσιμη για 24 ώρες και μπορείτε να την επισκεφθείτε μόνο από την ίδια συσκευή, διεύθυνση IP και περίοδο λειτουργίας περιηγητή που χρησιμοποιήσατε για να την ζητήσετε."
+
+#: Includes/Data.php:178
+msgid "Anonymise selected %s(s)"
+msgstr "Επιλέχθηκε η Ανωνυμία %s (s)"
+
+#: wp-gdpr-compliance.php:378 wp-gdpr-compliance.php:414 Includes/Page.php:597
+#: Includes/Page.php:690 Includes/Page.php:759 Includes/Page.php:779
+msgid "Yes"
+msgstr "Ναι"
+
+#: Includes/DeleteRequest.php:237
+msgid "User"
+msgstr "Χρήστης"
+
+#: Includes/Ajax.php:416
+msgid "Successfully sent an confirmation mail to the user."
+msgstr "Έχει αποσταλλεί με επιτυχία ένα μήνυμα επιβεβαίωσης στον χρήστη."
+
+#: Includes/Ajax.php:407
+msgid "The following has been processed:"
+msgstr "Επεξεργάστηκαν τα εξής δεδομένα:"
+
+#: Includes/Ajax.php:404
+msgid "We have successfully processed your request and your data has been anonymised on %s."
+msgstr "Έχουμε επεξεργαστεί με επιτυχία το αίτημά σας και τα δεδομένα σας έχουν ανωνυμοποιηθεί στο %s."
+
+#: Includes/Ajax.php:399
+msgid "%s - Your request"
+msgstr "%s - Το αίτημά σας"
+
+#: Includes/Ajax.php:295
+msgid "This request doesn't exist."
+msgstr "Αυτό το αίτημα δεν υπάρχει."
+
+#: Includes/Ajax.php:245
+msgid "You can manage this request in the admin panel: %s"
+msgstr "Μπορείτε να διαχειριστείτε αυτό το αίτημα στον πίνακα διαχείρισης: %s"
+
+#: Includes/Ajax.php:241
+msgid "You have received a new anonymise request on %s."
+msgstr "Έχετε λάβει ένα νέο αίτημα ανωνυμίας στο %s."
+
+#: Includes/Ajax.php:236
+msgid "%s - New anonymise request"
+msgstr "%s - Νέα αίτηση ανωνυμίας"
+
+#: Includes/DeleteRequest.php:240
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: wp-gdpr-compliance.php:379 wp-gdpr-compliance.php:415 Includes/Page.php:759
+#: Includes/Page.php:779
+msgid "No"
+msgstr "Οχι"
+
+#: Includes/Page.php:158
+msgid "Write a review"
+msgstr "Γράψτε την κριτική σας"
+
+#: Includes/Page.php:153
+msgid "Rate us"
+msgstr "Βαθμολογήστε μας"
+
+#: Includes/DeleteRequest.php:243
+msgid "WooCommerce Order"
+msgstr "WooCommerce Order"
+
+#: Includes/Page.php:471
+msgid "Anonymise request explanation"
+msgstr "Επεξήγηση αιτήματος ανωνυμίας"
+
+#: Includes/Action.php:133
+msgid "Retry"
+msgstr "Προσπαθήστε ξανά"
+
+#: Includes/Ajax.php:180
+msgid "Something went wrong while saving the request. Please try again."
+msgstr "Κάτι πήγε στραβά κατά την αποθήκευση του αιτήματος. Παρακαλούμε προσπαθήστε ξανά."
+
+#: Includes/Action.php:129
+msgid "Couldn't create the required database tables."
+msgstr "Δεν ήταν δυνατή η δημιουργία των απαιτούμενων πινάκων βάσης δεδομένων."
+
+#: Includes/Page.php:739 Includes/Page.php:857
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: Includes/Page.php:344 Includes/Page.php:420
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: Includes/Shortcode.php:49
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: Includes/Page.php:855 Includes/Page.php:959
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: Includes/Page.php:987
+msgid "Expired"
+msgstr "Έχει λήξει"
+
+#: Includes/Page.php:955
+msgid "ID"
+msgstr "ID"
+
+#: Includes/Page.php:979
+msgid "Manage"
+msgstr "Διαχείριση"
+
+#: Includes/Page.php:924 Includes/Page.php:1016
+msgid "No requests found."
+msgstr "Δεν βρέθηκαν αιτήματα."
+
+#: Includes/Page.php:444
+msgid "Page"
+msgstr "Σελίδα"
+
+#: Includes/Page.php:852
+msgid "Request"
+msgstr "Αίτημα"
+
+#: Includes/Ajax.php:232 Includes/Page.php:85
+msgid "Requests"
+msgstr "Αιτήματα"
+
+#: Includes/Page.php:853
+msgid "Type"
+msgstr "Τύπος"
+
+#: Includes/Shortcode.php:35
+msgid "Users"
+msgstr "Χρήστες"
+
+#: Includes/Page.php:878
+msgid "View"
+msgstr "Προβολή"
+
+#: Includes/Page.php:832
+msgid "WordPress Users"
+msgstr "Χρήστες του WordPress"
+
+#: Includes/Shortcode.php:106
+msgid "This request is expired or doesn't exist."
+msgstr "Το αίτημα έχει λήξει ή δεν υπάρχει."
+
+#: Includes/Shortcode.php:56
+msgid "No comments found with email address %s."
+msgstr "Δεν βρέθηκαν σχόλια με αυτή τη διεύθυνση ηλεκτρονικού ταχυδρομείου %s."
+
+#: Includes/Page.php:956
+msgid "Requests to Process"
+msgstr "Αιτήματα για επεξεργασία"
+
+#: Includes/Page.php:856
+msgid "Processed"
+msgstr "Επεξεργασμένο"
+
+#: Includes/Page.php:899
+msgid "Anonymise selected request(s)"
+msgstr "Επιλεγμένη(ες) Ανώνυμη(ες) αίτηση (εις)."
+
+#: Includes/Page.php:415
+msgid "Request User Data"
+msgstr "Αίτημα για δεδομένα χρήστη"
+
+#: Includes/Shortcode.php:65
+msgid "WooCommerce Orders"
+msgstr "Παραγγελίες WooCommerce"
+
+#: Includes/Shortcode.php:42
+msgid "No users found with email address %s."
+msgstr "Δεν βρέθηκαν χρήστες με τη διεύθυνση ηλεκτρονικού ταχυδρομείου %s."
+
+#: Includes/Shortcode.php:72
+msgid "No WooCommerce orders found with email address %s."
+msgstr "Δεν υπάρχουν παραγγελίες WooCommerce με την διεύθυνση ηλεκτρονικού ταχυδρομείου %s."
+
+#: Includes/Page.php:802 Includes/Page.php:918 Includes/Page.php:1010
+msgid "%d of %d results found"
+msgstr "βρέθηκαν %d από %d αποτελέσματα"
+
+#: Includes/Page.php:456
+msgid "Click here to edit this page"
+msgstr "Κάντε κλικ εδώ, για να επεξεργαστείτε αυτήν τη σελίδα"
+
+#: Includes/Page.php:433
+msgid "Enabling this will create one private page containing the necessary shortcode: %s. You can determine when and how to publish this page yourself."
+msgstr "Η ενεργοποίηση αυτής θα δημιουργήσει μία ιδιωτική σελίδα που περιέχει το απαραίτητο shortcode: %s. Μπορείτε να προσδιορίσετε πότε και πώς θα δημοσιεύσετε αυτήν τη σελίδα."
+
+#: Includes/Page.php:424
+msgid "Activate page"
+msgstr "Ενεργοποίηση σελίδας"
+
+#: Includes/Page.php:417
+msgid "Allow your site's visitors to request their data stored in the WordPress database (comments, WooCommerce orders etc.). Data found is send to their email address and allows them to put in an additional request to have the data anonymised."
+msgstr "Επιτρέψτε στους επισκέπτες του ιστότοπού σας να ζητήσουν τα δεδομένα που είναι αποθηκευμένα στη βάση δεδομένων του WordPress (σχόλια, παραγγελίες WooCommerce κ.λπ.). Τα δεδομένα που βρέθηκαν αποστέλλονται στη διεύθυνση ηλεκτρονικού ταχυδρομείου τους και τους επιτρέπει να υποβάλλουν ένα επιπλέον αίτημα για την ανωνυμία των δεδομένων."
+
+#: Includes/Page.php:141
+msgid "%s currently supports %s. Please visit %s for frequently asked questions and our development roadmap."
+msgstr "Το%s υποστηρίζει αυτήν τη στιγμή το%s. Επισκεφτείτε το %s για συχνές ερωτήσεις και τον development roadmap."
+
+#: Includes/Integration.php:336
+msgid "Below we show you all of the data stored by %s on %s. Select the data you wish the site owner to anonymise so it cannot be linked to your email address any longer. It is the site's owner responsibility to act upon your request. When your data is anonymised you will receive an email confirmation."
+msgstr "Παρακάτω θα εμφανιστούν όλα τα δεδομένα που αποθηκεύτηκαν από το%s στο%s. Επιλέξτε τα δεδομένα που θέλετε να ανώνυμοποιήσει ο κάτοχος του ιστότοπου, ώστε να μην μπορούν πλέον να συνδεθούν με τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας. Είναι ευθύνη του ιδιοκτήτη του ιστοτόπου να ενεργήσει κατόπιν αιτήματός σας. Όταν τα δεδομένα σας είναι ανώνυμα, θα λάβετε μια επιβεβαίωση μέσω ηλεκτρονικού ταχυδρομείου."
+
+#: Includes/Page.php:138
+msgid "This plugin assists website and webshop owners to comply with European privacy regulations known as GDPR. By May 25th, 2018 your site or shop has to comply."
+msgstr "Αυτό το πρόσθετο βοηθάει τους ιδιοκτήτες ιστοτόπων και ηλεκτρονικών καταστημάτων να συμμορφωθούν με τους Ευρωπαϊκούς κανονισμούς ιδιωτικότητας γνωστοί ως GDPR. Από τις 25 Μαΐου του 2018 ο ιστότοπος σας ή το eshop σας πρέπει να συμμορφωθεί."
+
+#: Includes/Data.php:72
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: Includes/Data.php:61
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: Includes/Data.php:74
+msgid "City"
+msgstr "Πόλη"
+
+#: Includes/Data.php:62
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: Includes/Data.php:54 Includes/Data.php:63 Includes/Data.php:70
+#: Includes/Page.php:957
+msgid "Email Address"
+msgstr "Διεύθυνση email"
+
+#: Includes/Data.php:64 Includes/Page.php:854 Includes/Page.php:958
+msgid "IP Address"
+msgstr "Διεύθυνση IP"
+
+#: Includes/Data.php:71
+msgid "Name"
+msgstr "Όνομα"
+
+#: Includes/Data.php:69
+msgid "Order"
+msgstr "Σειρά"
+
+#: Includes/Data.php:73
+msgid "Postcode / ZIP"
+msgstr "Ταχυδρομικός κωδικός / ZIP"
+
+#: Includes/Data.php:52
+msgid "Username"
+msgstr "Όνομα Χρήστη"
+
+#: Includes/Data.php:55
+msgid "Website"
+msgstr "Ιστότοπος"
+
+#: Includes/Ajax.php:139
+msgid "page"
+msgstr "σελίδα"
+
+#: Includes/Data.php:56
+msgid "Registered on"
+msgstr "Εγγραφή στο"
+
+#: Includes/Data.php:28
+msgid "Email Address is required."
+msgstr "Απαιτείται διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+#: Includes/Ajax.php:420
+msgid "This request has already been processed."
+msgstr "Αυτή η αίτηση έχει ήδη υποβληθεί σε επεξεργασία."
+
+#: Includes/Ajax.php:343
+msgid "You're not allowed to edit comments."
+msgstr "Δεν έχετε δικαίωμα επεξεργασίας σχολίων."
+
+#: Includes/Ajax.php:337
+msgid "This comment doesn't exist."
+msgstr "Αυτό το σχόλιο δεν υπάρχει."
+
+#: Includes/Ajax.php:317
+msgid "This user doesn't exist."
+msgstr "Αυτός ο χρήστης δεν υπάρχει."
+
+#: Includes/Ajax.php:281
+msgid "The access request functionality is not enabled."
+msgstr "Η λειτουργία αίτησης πρόσβασης δεν είναι ενεργοποιημένη."
+
+#: Includes/Ajax.php:224
+msgid "Something went wrong while saving this request. Please try again."
+msgstr "Κάτι έτυχε λάθους κατά την αποθήκευση αυτού του αιτήματος. Παρακαλώ προσπαθήστε ξανά."
+
+#: Includes/Ajax.php:204
+msgid "No value selected."
+msgstr "Δεν έχει επιλεγεί καμία τιμή."
+
+#: Includes/Ajax.php:176
+msgid "Success. You will receive an email with your data shortly."
+msgstr "Επιτυχία. Θα λάβετε σύντομα ένα μήνυμα ηλεκτρονικού ταχυδρομείου με τα δεδομένα σας."
+
+#: Includes/Ajax.php:114
+msgid "You need to accept the privacy checkbox."
+msgstr "Πρέπει να αποδεχθείτε το πλαίσιο ελέγχου απορρήτου."
+
+#: Includes/Action.php:93
+msgid "Data Access Request"
+msgstr "Αίτημα πρόσβασης δεδομένων"
+
+#: Includes/Data.php:53
+msgid "Display Name"
+msgstr "Εμφανιζόμενο όνομα"
+
+#: Includes/Ajax.php:200
+msgid "Missing or invalid type."
+msgstr "Ελλειπής ή μη έγκυρος τύπος."
+
+#: Includes/Ajax.php:152
+msgid "You have requested to access your data on %s."
+msgstr "Ζητήσατε πρόσβαση στα δεδομένα σας στον ιστότοπο %s."
+
+#: Includes/Ajax.php:324
+msgid "You're not allowed to edit users."
+msgstr "Δεν σας επιτρέπεται η επεξεργασία χρηστών."
+
+#: Includes/Ajax.php:387
+msgid "You're not allowed to edit WooCommerce orders."
+msgstr "Δεν επιτρέπεται να επεξεργαστείτε παραγγελίες WooCommerce."
+
+#: Includes/Ajax.php:259
+msgid "No session found."
+msgstr "Δεν βρέθηκαν συνεδρίες."
+
+#: Includes/Ajax.php:183
+msgid "You have already requested your data. Please check your mailbox. After 24 hours you can put in a new request."
+msgstr "Έχετε ήδη αιτηθεί για τα δεδομένα σας. Παρακαλούμε όπως ανατρέξετε στο mailbox σας. Έπειτα από 24 ώρες μπορείτε να κάνετε νέα αίτηση."
+
+#: Includes/Ajax.php:146
+msgid "%s - Your data request"
+msgstr "%s - Το αίτημά σας για τα δεδομένα σας"
+
+#: Includes/Ajax.php:110
+msgid "Missing or incorrect email address."
+msgstr "Λείπει ή είναι εσφαλμένη η διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+#: Includes/Ajax.php:256
+msgid "Session doesn't match."
+msgstr "Η συνεδρία χρήστη δεν ταιριάζει."
+
+#: Includes/Page.php:687 Includes/Page.php:736
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: Includes/Ajax.php:156
+msgid "Please visit this %s to view the data linked to the email address %s."
+msgstr "Μπορείτε να επισκεφθείτε τη %s για να δείτε τα δεδομένα που συνδέονται με τη διεύθυνση ηλεκτρονικού ταχυδρομείου %s."
+
+#: Includes/Helper.php:175
+msgid "Please disable the custom comments form in Jetpack to make your WordPress Comments GDPR compliant."
+msgstr "Παρακαλούμε απενεργοποιήστε τη φόρμα προσαρμοσμένων σχόλιων στο Jetpack για να κάνετε τα WordPress σχόλια συμμορφούμενα με την GDPR."
+
+#: Includes/Page.php:147
+msgid "Disclaimer: The creators of this plugin do not have a legal background please contact a law firm for rock solid legal advice."
+msgstr "Αποποίηση ευθύνης: Οι δημιουργοί αυτού του προσθέτου δεν έχουν κάποιο νομικό υπόβαθρο, παρακαλούμε επικοινωνήστε με κάποιο δικηγορικό γραφείο για έγκυρες νομικές συμβουλές."
+
+#: Includes/Page.php:408
+msgid "Link text"
+msgstr "Κείμενο συνδέσμου"
+
+#: Includes/Page.php:200
+msgid "Enable:"
+msgstr "Ενεργοποίηση:"
+
+#: Includes/Page.php:342 Includes/Page.php:394 Includes/Integration.php:302
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#: Includes/Helper.php:117
+msgid "No HTML allowed due to plugin limitations."
+msgstr "Δεν επιτρέπεται HTML λόγω περιορισμών του προσθέτου."
+
+#: Includes/Action.php:243 Includes/Page.php:260 Includes/Page.php:355
+#: Includes/Page.php:370 Includes/Page.php:431 Includes/Page.php:487
+#: Includes/Page.php:841 Includes/Page.php:947 Includes/Helper.php:116
+#: Includes/Helper.php:174 Includes/Shortcode.php:164
+msgid "Note"
+msgstr "Σημείωση"
+
+#: Includes/Extensions/WP.php:67
+msgid "GDPR Accepted On"
+msgstr "Η GDPR Είναι Αποδεκτή Σε"
+
+#: Includes/Extensions/GForms.php:147
+msgid "Accepted on %s."
+msgstr "Είναι αποδεκτή σε %s."
+
+#: Includes/Extensions/WC.php:67 Includes/Extensions/CF7.php:188
+msgid "GDPR accepted on:"
+msgstr "Η GDPR είναι αποδεκτή σε:"
+
+#: Includes/Extensions/GForms.php:113 Includes/Extensions/GForms.php:129
+#: Includes/Extensions/GForms.php:149 Includes/Extensions/WC.php:69
+#: Includes/Extensions/WC.php:96 Includes/Extensions/WP.php:79
+#: Includes/Extensions/CF7.php:184
+msgid "Not accepted."
+msgstr "Δεν είναι αποδεκτή."
+
+#: Includes/Page.php:399 Includes/Page.php:449
+msgid "Select an option"
+msgstr "Κάντε μια επιλογή"
+
+#: wp-gdpr-compliance.php:368 Includes/Page.php:98
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: Includes/Helper.php:110
+msgid "You can use: %s"
+msgstr "Μπορείτε να χρησιμοποιήσετε: %s"
+
+#: wp-gdpr-compliance.php:368
+msgid "View WP GDPR Compliance settings"
+msgstr "Δείτε τις ρυθμίσεις συμμόρφωσης του WP GDPR"
+
+#. Author of the plugin
+msgid "Van Ons"
+msgstr "Van Ons"
+
+#: Includes/Page.php:227
+msgid "This plugin is outdated. %s supports version %s and up."
+msgstr "Αυτό το πρόσθετο είναι απαρχαιωμένο. Το %s υποστηρίζει την έκδοση %s ή νεότερη."
+
+#: Includes/Page.php:96
+msgid "Checklist"
+msgstr "Λίστα ελέγχου"
+
+#: Includes/Integration.php:406
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: Includes/Integration.php:380
+msgid "When activated the GDPR checkbox will be added automatically just above the submit button."
+msgstr "Όταν είναι ενεργοποιημένο το κουτάκι τσεκαρίσματος της GDPR θα προστεθεί αυτόματα ακριβώς πάνω από το κουμπί υποβολής."
+
+#: Includes/Integration.php:157 Includes/Integration.php:207
+msgid "No forms found."
+msgstr "Δεν βρέθηκαν φόρμες."
+
+#: Includes/Integration.php:137 Includes/Integration.php:181
+msgid "Form: %s"
+msgstr "Φόρμα: %s"
+
+#: Includes/Data.php:27 Includes/Extensions/WP.php:44 Includes/Shortcode.php:85
+#: Includes/Shortcode.php:105
+msgid "<strong>ERROR</strong>: %s"
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: %s"
+
+#: Includes/Extensions/GForms.php:58 Includes/Extensions/GForms.php:97
+#: Includes/Extensions/WC.php:84
+msgid "Privacy"
+msgstr "Ιδιωτικότητα"
+
+#: Includes/Extensions/WP.php:47
+msgid "Comment Submission Failure"
+msgstr "Αποτυχία υποβολής σχολίου"
+
+#: Includes/Integration.php:275
+msgid "Please accept the privacy checkbox."
+msgstr "Παρακαλούμε αποδεχτείτε το πλαίσιο ελέγχου απορρήτου."
+
+#: Includes/Helper.php:202
+msgid "Do you provide a forum or message board?"
+msgstr "Παρέχετε κάποιο φόρουμ ή πίνακα μηνυμάτων;"
+
+#: Includes/Integration.php:147 Includes/Integration.php:191
+#: Includes/Integration.php:226
+msgid "Error message"
+msgstr "Μήνυμα σφάλματος"
+
+#: Includes/Page.php:237
+msgid "The following plugins are supported as of now:"
+msgstr "Μέχρι στιγμής υποστηρίζονται τα ακόλουθα πρόσθετα:"
+
+#: Includes/Page.php:243
+msgid "More plugins will be added in the future."
+msgstr "Στο μέλλον θα προστεθούν περισσότερα πρόσθετα."
+
+#: Includes/Page.php:236
+msgid "Couldn't find any supported plugins installed."
+msgstr "Δεν μπόρεσαν να εντοπιστούν κάποια υποστηριζόμενα πρόσθετα εγκατεστημένα."
+
+#: Includes/Page.php:68
+msgid "Integrations"
+msgstr "Ενσωματώσεις"
+
+#: Includes/Integration.php:414
+msgid "The GDPR checkbox will be added automatically at the end of your checkout page."
+msgstr "Το κουτάκι τσεκαρίσματος της GDPR θα προστεθεί αυτόματα στο τέλος της σελίδας ολοκλήρωσης αγοράς."
+
+#: Includes/Page.php:836 Includes/Integration.php:413
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: Includes/Integration.php:400 Includes/Integration.php:407
+msgid "A GDPR form tag will be automatically added to every form you activate."
+msgstr "Μια ετικέτα φόρμας της GDPR θα προστεθεί αυτόματα σε κάθε φόρμα που ενεργοποιείτε."
+
+#: Includes/Integration.php:399
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: Includes/Page.php:834 Includes/Integration.php:379
+msgid "WordPress Comments"
+msgstr "Σχόλια του WordPress"
+
+#: Includes/Integration.php:138 Includes/Integration.php:182
+msgid "Activate for this form:"
+msgstr "Ενεργοποιήστε γι' αυτή τη φόρμα:"
+
+#: Includes/Ajax.php:36
+msgid "Missing option name."
+msgstr "Ελλιπές όνομα επιλογής."
+
+#: Includes/Ajax.php:48
+msgid "Missing value."
+msgstr "Ελλιπής τιμή."
+
+#: Includes/Ajax.php:99
+msgid "Missing type."
+msgstr "Ελλιπής τύπος."
+
+#: Includes/Ajax.php:26 Includes/Ajax.php:95 Includes/Ajax.php:291
+msgid "Missing data."
+msgstr "Ελλειπή δεδομένα."
+
+#: Includes/Page.php:267
+msgid "Below we ask you what private data you currently collect and provide you with tips to comply."
+msgstr "Παρακάτω σας ρωτάμε τι προσωπικά δεδομένα συλλέγετε αυτή τη στιγμή και σας παρέχουμε συμβουλές για να συμμορφωθείτε."
+
+#: Includes/Integration.php:258 Includes/Integration.php:322
+msgid "By using this form you agree with the storage and handling of your data by this website."
+msgstr "Χρησιμοποιώντας αυτή τη φόρμα συμφωνείτε με την αποθήκευση και την επεξεργασία των δεδομένων σας από τον ιστότοπο."
+
+#: Includes/Page.php:462 Includes/Integration.php:141
+#: Includes/Integration.php:185 Includes/Integration.php:220
+msgid "Checkbox text"
+msgstr "Κείμενο πλαισίου ελέγχου"
+
+#. Author URI of the plugin
+msgid "https://www.van-ons.nl/"
+msgstr "https://www.van-ons.nl/"
+
+#. Plugin URI of the plugin
+msgid "https://www.wpgdprc.com/"
+msgstr "https://www.wpgdprc.com/"
+
+#. Plugin Name of the plugin
+msgid "WP GDPR Compliance"
+msgstr "WP GDPR Compliance"
+
+#. Description of the plugin
+msgid "This plugin assists website and webshop owners to comply with European privacy regulations known as GDPR. By May 24th, 2018 your website or shop has to comply to avoid large fines."
+msgstr "Αυτό το πρόσθετο βοηθάει τους ιδιοκτήτες ιστοτόπου και ηλεκτρονικού καταστήματος να συμμορφωθούν με τους Ευρωπαϊκούς κανόνες ιδιωτικότητας γνωστή ως GDPR. Μέχρι τις 24 Μαΐου 2018, ο ιστότοπός ή το ηλεκτρονικό κατάστημά σας πρέπει να συμμορφωθεί για να αποφύγει μεγάλα πρόστιμα."
+
+#: Includes/Helper.php:206
+msgid "Can visitors chat with your company directly?"
+msgstr "Μπορούν οι επισκέπτες να συνομιλούν με την εταιρία σας απευθείας;"
+
+#: Includes/Helper.php:190
+msgid "Do you have a contact form?"
+msgstr "Έχετε κάποια φόρμα επικοινωνίας;"
+
+#: Includes/Helper.php:198
+msgid "Is there an order form on your website or webshop present?"
+msgstr "Υπάρχει κάποια φόρμα παραγγελίας που να εμφανίζεται στον ιστότοπο σας ή το ηλεκτρονικό κατάστημά σας;"
+
+#: Includes/Helper.php:194
+msgid "Can visitors comment anywhere on your website?"
+msgstr "Μπορούν οι επισκέπτες να σχολιάσουν οπουδήποτε στον ιστότοπο σας;"
+
+#: Includes/Helper.php:207
+msgid "Make sure you add a checkbox specifically asking chat users if they consent to you storing and using their personal information and messages. The checkbox must be unchecked by default. We recommend also mentioning for how long you will store chat messages or deleting them all within 24 hours. Also mention if you will send or share the data with any 3rd-parties and which."
+msgstr "Βεβαιωθείτε ότι προσθέσατε ένα πλαίσιο ελέγχου, ζητώντας ειδικότερα οι χρήστες chat εάν συναινούν να αποθηκεύετε και να χρησιμοποιείτε τις προσωπικές πληροφορίες και τα μηνύματα τους. Το πλαίσιο ελέγχου πρέπει να είναι απενεργοποιημένο από προεπιλογή. Σας συνιστούμε επίσης να αναφέρετε για πόσο καιρό θα αποθηκεύετε μηνύματα chat ή να τα διαγράφετε όλα μέσα σε 24 ώρες. Επίσης να αναφέρετε αν θα στέλνετε ή θα μοιράζεστε τα δεδομένα με οποιαδήποτε 3rd-μέρη και ποια."
+
+#: Includes/Helper.php:203
+msgid "Make sure you add a checkbox specifically asking forum / board users if they consent to you storing and using their personal information and messages. The checkbox must be unchecked by default. Also mention if you will send or share the data with any 3rd-parties and which."
+msgstr "Βεβαιωθείτε ότι θα προσθέστε ένα πλαίσιο ελέγχου που ζητά ειδικά από τους χρήστες του φόρουμ / πίνακα (board) εάν συμφωνούν να αποθηκεύσετε και να χρησιμοποιήσετε τα προσωπικά τους στοιχεία και μηνύματα. Το πλαίσιο ελέγχου πρέπει να μην είναι επιλεγμένο από προεπιλογή. Αναφέρετε επίσης εάν θα στείλετε ή θα μοιραστείτε τα δεδομένα με τρίτους και ποια."
+
+#: Includes/Helper.php:195
+msgid "Make sure you add a checkbox specifically asking the user of the comment section if they consent to storing their message attached to the e-mail address they've used to comment. The checkbox must be unchecked by default. Also mention if you will send or share the data with any 3rd-parties and which."
+msgstr "Βεβαιωθείτε ότι θα προσθέστε ένα πλαίσιο ελέγχου που ζητά ειδικά από το χρήστη της ενότητας σχολίων εάν συναινεί στην αποθήκευση του μηνύματός τους που επισυνάπτεται στη διεύθυνση ηλεκτρονικού ταχυδρομείου που έχουν χρησιμοποιήσει για να σχολιάσουν. Το πλαίσιο ελέγχου πρέπει να μην είναι επιλεγμένο από προεπιλογή. Αναφέρετε επίσης εάν θα στείλετε ή θα μοιραστείτε τα δεδομένα με τρίτους και ποια."
+
+#: Includes/Helper.php:191
+msgid "Make sure you add a checkbox specifically asking the user of the form if they consent to you storing and using their personal information to get back in touch with them. The checkbox must be unchecked by default. Also mention if you will send or share the data with any 3rd-parties and which."
+msgstr "Βεβαιωθείτε ότι θα προσθέστε ένα πλαίσιο ελέγχου που ζητά ειδικά από τον χρήστη της φόρμας εάν συναινεί να αποθηκεύσετε και να χρησιμοποιήσετε τα προσωπικά τους στοιχεία για να επικοινωνήσετε μαζί τους. Το πλαίσιο ελέγχου πρέπει να μην είναι επιλεγμένο από προεπιλογή. Αναφέρετε επίσης εάν θα στείλετε ή θα μοιραστείτε τα δεδομένα με τρίτους και ποια."
+
+#: Includes/Helper.php:199
+msgid "Make sure you add a checkbox specifically asking the user of the form if they consent to you storing and using their personal information to ship the order. This cannot be the same checkbox as the Privacy Policy checkbox you should already have in place. The checkbox must be unchecked by default. Also mention if you will send or share the data with any 3rd-parties and which."
+msgstr "Σιγουρευτείτε ότι θα βάλετε ένα πλαίσιο ελέγχου ρωτώντας ειδικά τον χρήστη της φόρμας αν συναινεί να αποθηκεύετε και να χρησιμοποιείτε τα προσωπικά του δεδομένα για να παραδώσετε την παραγγελία. Αυτό δεν μπορεί να είναι το ίδιο πλαίσιο ελέγχου όπως της Πολιτικής Απορρήτου το οποίο πρέπει να έχετε ήδη προσθέσει. Το πλαίσιο ελέγχου δεν πρέπει να είναι τσεκαρισμένο απο προεπιλογή. Επίσης αναφέρετε αν θα στέλνετε ή θα μοιράζεστε τα δεδομένα αυτά με κάποιον τρίτο κι αν ναι ποιόν."
